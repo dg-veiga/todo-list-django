@@ -34,6 +34,6 @@ After that, insert the requested data to finish the register and run the server 
     
     $ python manage.py runserver
     
-    # Go to the "localhost:8000/admin" and input your username and password. Voilá.
-    # [More info](https://docs.djangoproject.com/en/3.2/intro/tutorial02/#introducing-the-django-admin).
+Go to the "localhost:8000/admin" and input your username and password. Voilá.
+[More info](https://docs.djangoproject.com/en/3.2/intro/tutorial02/#introducing-the-django-admin).
 
