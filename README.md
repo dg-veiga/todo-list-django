@@ -6,16 +6,16 @@ Go to the [youtube tutorial video](https://www.youtube.com/watch?v=llbtoQTt4qw&t
 
 #### To make it work
 
-    \# Clone this repository
+    # Clone this repository
 
-    \ $ git clone https://github.com/dg-veiga/todo-list-django
+    $ git clone https://github.com/dg-veiga/todo-list-django
 
-    \# Go to the project folder
+    # Go to the project folder
 
-    \ $ cd todo-list-django
+    $ cd todo-list-django
 
-    \# And run the django server
+    # And run the django server
 
-    \ $ python manage.py runserver
+    $ python manage.py runserver
 
 
